@@ -6,7 +6,7 @@
 
 **Primary teacher**: 
 
-**Secondary teacher**: 
+**Secondary teacher** (if needed): 
 
 ## Goal
 At the end of the lesson, the students should:
